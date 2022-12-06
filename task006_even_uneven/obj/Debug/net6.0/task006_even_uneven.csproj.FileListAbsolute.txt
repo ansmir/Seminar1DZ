@@ -1,0 +1,15 @@
+D:\учебка\C_Seminar_1\task006_even_uneven\obj\Debug\net6.0\task006_even_uneven.csproj.AssemblyReference.cache
+D:\учебка\C_Seminar_1\task006_even_uneven\obj\Debug\net6.0\task006_even_uneven.GeneratedMSBuildEditorConfig.editorconfig
+D:\учебка\C_Seminar_1\task006_even_uneven\obj\Debug\net6.0\task006_even_uneven.AssemblyInfoInputs.cache
+D:\учебка\C_Seminar_1\task006_even_uneven\obj\Debug\net6.0\task006_even_uneven.AssemblyInfo.cs
+D:\учебка\C_Seminar_1\task006_even_uneven\obj\Debug\net6.0\task006_even_uneven.csproj.CoreCompileInputs.cache
+D:\учебка\C_Seminar_1\task006_even_uneven\bin\Debug\net6.0\task006_even_uneven.exe
+D:\учебка\C_Seminar_1\task006_even_uneven\bin\Debug\net6.0\task006_even_uneven.deps.json
+D:\учебка\C_Seminar_1\task006_even_uneven\bin\Debug\net6.0\task006_even_uneven.runtimeconfig.json
+D:\учебка\C_Seminar_1\task006_even_uneven\bin\Debug\net6.0\task006_even_uneven.dll
+D:\учебка\C_Seminar_1\task006_even_uneven\bin\Debug\net6.0\task006_even_uneven.pdb
+D:\учебка\C_Seminar_1\task006_even_uneven\obj\Debug\net6.0\task006_even_uneven.dll
+D:\учебка\C_Seminar_1\task006_even_uneven\obj\Debug\net6.0\refint\task006_even_uneven.dll
+D:\учебка\C_Seminar_1\task006_even_uneven\obj\Debug\net6.0\task006_even_uneven.pdb
+D:\учебка\C_Seminar_1\task006_even_uneven\obj\Debug\net6.0\task006_even_uneven.genruntimeconfig.cache
+D:\учебка\C_Seminar_1\task006_even_uneven\obj\Debug\net6.0\ref\task006_even_uneven.dll
