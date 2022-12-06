@@ -1,0 +1,15 @@
+D:\учебка\C_Seminar_1\task002_MAX\bin\Debug\net6.0\task002_MAX.exe
+D:\учебка\C_Seminar_1\task002_MAX\bin\Debug\net6.0\task002_MAX.deps.json
+D:\учебка\C_Seminar_1\task002_MAX\bin\Debug\net6.0\task002_MAX.runtimeconfig.json
+D:\учебка\C_Seminar_1\task002_MAX\bin\Debug\net6.0\task002_MAX.dll
+D:\учебка\C_Seminar_1\task002_MAX\bin\Debug\net6.0\task002_MAX.pdb
+D:\учебка\C_Seminar_1\task002_MAX\obj\Debug\net6.0\task002_MAX.csproj.AssemblyReference.cache
+D:\учебка\C_Seminar_1\task002_MAX\obj\Debug\net6.0\task002_MAX.GeneratedMSBuildEditorConfig.editorconfig
+D:\учебка\C_Seminar_1\task002_MAX\obj\Debug\net6.0\task002_MAX.AssemblyInfoInputs.cache
+D:\учебка\C_Seminar_1\task002_MAX\obj\Debug\net6.0\task002_MAX.AssemblyInfo.cs
+D:\учебка\C_Seminar_1\task002_MAX\obj\Debug\net6.0\task002_MAX.csproj.CoreCompileInputs.cache
+D:\учебка\C_Seminar_1\task002_MAX\obj\Debug\net6.0\task002_MAX.dll
+D:\учебка\C_Seminar_1\task002_MAX\obj\Debug\net6.0\refint\task002_MAX.dll
+D:\учебка\C_Seminar_1\task002_MAX\obj\Debug\net6.0\task002_MAX.pdb
+D:\учебка\C_Seminar_1\task002_MAX\obj\Debug\net6.0\task002_MAX.genruntimeconfig.cache
+D:\учебка\C_Seminar_1\task002_MAX\obj\Debug\net6.0\ref\task002_MAX.dll
